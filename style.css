@@ -1,0 +1,22 @@
+h3 {
+    font-family: "Kdam Thmor Pro", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  h3{color:blueviolet}
+  h3{font-size: 250%;}
+
+
+  h3 {border-style: solid;
+      border-color:aqua ;
+      border-width: 4px;
+}
+
+.parte01{border-style: solid;
+    border-color:rgb(255, 196, 0) ;
+    border-width: 4px;
+}
+
+.parte01{margin-right:80%;}
+.parte01{padding-left: 10%;}
